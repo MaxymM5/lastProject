@@ -390,6 +390,10 @@ h1 {
   flex: 1;
   min-width: 220px;
 }
+.second-footer .second-footer-secondPart .footer-content .footer-column a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
 .second-footer .second-footer-secondPart .footer-content .footer-column h4 {
   margin-bottom: 10px;
 }
